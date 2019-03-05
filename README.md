@@ -1,2 +1,0 @@
-# PoariAlphaWeb
-Created with CodeSandbox
